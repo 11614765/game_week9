@@ -7,6 +7,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace Game2
 {
+    /// <summary>
+    /// meaningless commit
+    /// </summary>
     class NPC : BasicModel
     {
         Matrix rotation = Matrix.Identity;
