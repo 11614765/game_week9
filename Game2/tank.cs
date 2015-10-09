@@ -7,6 +7,10 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 namespace Game2
 {
+
+    /// <summary>
+    /// commit1212122121
+    /// </summary>
     class Tank : BasicModel
 
     {
