@@ -13,7 +13,7 @@ namespace Game2
 
         //second try of pull and merge
         //aa
-
+        //jietu
         public GraphicsDevice device { get; protected set; }
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
