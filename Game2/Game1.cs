@@ -15,6 +15,7 @@ namespace Game2
         //aa
         //what is that?
 
+        //jietu
         public GraphicsDevice device { get; protected set; }
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
