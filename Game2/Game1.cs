@@ -9,7 +9,7 @@ namespace Game2
     /// </summary>
     public class Game1 : Game
     {
-
+        //aa
 
         public GraphicsDevice device { get; protected set; }
         GraphicsDeviceManager graphics;
