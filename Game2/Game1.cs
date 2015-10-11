@@ -13,6 +13,7 @@ namespace Game2
 
         //second try of pull and merge
         //aa
+        //what is that?
 
         public GraphicsDevice device { get; protected set; }
         GraphicsDeviceManager graphics;
