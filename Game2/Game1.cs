@@ -11,7 +11,7 @@ namespace Game2
     public class Game1 : Game
     {
 
-
+        //second try of pull and merge
         public GraphicsDevice device { get; protected set; }
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
