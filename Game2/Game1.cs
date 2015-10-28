@@ -5,7 +5,7 @@ using Microsoft.Xna.Framework.Input;
 namespace Game2
 {
     /// <summary>
-    ///pull request
+    ///pull request checkchenck宋江
     /// This is the main type for your game.
     /// </summary>
     public class Game1 : Game
